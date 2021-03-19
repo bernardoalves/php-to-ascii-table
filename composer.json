@@ -1,5 +1,5 @@
 {
-    "name": "malios/php-to-ascii-table",
+    "name": "bernardoalves/php-to-ascii-table",
     "description": "A PHP library to generate plain text tables.",
     "type": "library",
     "keywords": [
